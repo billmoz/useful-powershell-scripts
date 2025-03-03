@@ -1,5 +1,6 @@
 # This should parse inputfile.txt for any email addresses
 # and export to a csv file outputfile.txt.
+# Needs be further tested.
  
 # Define the path to the input text file and the output CSV file
 $inputFile = "/path/to/your/inputfile.txt"
